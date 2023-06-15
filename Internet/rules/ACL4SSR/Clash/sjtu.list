@@ -1,0 +1,12 @@
+# SJTU 内网
+# 校内直连，校外通过内网穿透或 RVPN 访问
+
+# 域名
+DOMAIN-SUFFIX,sjtu.edu.cn
+
+# sjtu
+DOMAIN-KEYWORD,sjtu
+
+# 校内 IP
+IP-CIDR,10.0.0.0/8,no-resolve
+

@@ -10,3 +10,5 @@ DOMAIN-KEYWORD,sjtu
 # 校内 IP
 IP-CIDR,10.0.0.0/8,no-resolve
 
+# cs temp
+DOMAIN,cs.leoh.top
